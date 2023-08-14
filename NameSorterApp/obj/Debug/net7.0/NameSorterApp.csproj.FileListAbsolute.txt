@@ -1,0 +1,15 @@
+C:\Users\83870\Desktop\NameSortApp\NameSorterApp\bin\Debug\net7.0\NameSorterApp.exe
+C:\Users\83870\Desktop\NameSortApp\NameSorterApp\bin\Debug\net7.0\NameSorterApp.deps.json
+C:\Users\83870\Desktop\NameSortApp\NameSorterApp\bin\Debug\net7.0\NameSorterApp.runtimeconfig.json
+C:\Users\83870\Desktop\NameSortApp\NameSorterApp\bin\Debug\net7.0\NameSorterApp.dll
+C:\Users\83870\Desktop\NameSortApp\NameSorterApp\bin\Debug\net7.0\NameSorterApp.pdb
+C:\Users\83870\Desktop\NameSortApp\NameSorterApp\obj\Debug\net7.0\NameSorterApp.csproj.AssemblyReference.cache
+C:\Users\83870\Desktop\NameSortApp\NameSorterApp\obj\Debug\net7.0\NameSorterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\83870\Desktop\NameSortApp\NameSorterApp\obj\Debug\net7.0\NameSorterApp.AssemblyInfoInputs.cache
+C:\Users\83870\Desktop\NameSortApp\NameSorterApp\obj\Debug\net7.0\NameSorterApp.AssemblyInfo.cs
+C:\Users\83870\Desktop\NameSortApp\NameSorterApp\obj\Debug\net7.0\NameSorterApp.csproj.CoreCompileInputs.cache
+C:\Users\83870\Desktop\NameSortApp\NameSorterApp\obj\Debug\net7.0\NameSorterApp.dll
+C:\Users\83870\Desktop\NameSortApp\NameSorterApp\obj\Debug\net7.0\refint\NameSorterApp.dll
+C:\Users\83870\Desktop\NameSortApp\NameSorterApp\obj\Debug\net7.0\NameSorterApp.pdb
+C:\Users\83870\Desktop\NameSortApp\NameSorterApp\obj\Debug\net7.0\NameSorterApp.genruntimeconfig.cache
+C:\Users\83870\Desktop\NameSortApp\NameSorterApp\obj\Debug\net7.0\ref\NameSorterApp.dll
