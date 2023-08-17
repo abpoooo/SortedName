@@ -12,14 +12,14 @@ namespace NameSorterApp
 
 
     //create interface following SOLID principle of OOP for inheritance in the following main function, with INameSorter
-    interface INameSorter
+    public interface INameSorter
     {
         // the interface name of SortNames
         List<string> SortNames(List<string> names);
     }
 
 //the SortName with two main functions of LastName Comparator and GivenName Comparator with IComparer which is similar to Coparator in Java
-    class LastNameComparer : IComparer<string>
+    public class LastNameComparer : IComparer<string>
     {
         public int Compare(string name1, string name2)
         {
@@ -35,7 +35,7 @@ namespace NameSorterApp
 
 
 //test build action
-class GivenNamesComparer : IComparer<string>
+public class GivenNamesComparer : IComparer<string>
     {
         public int Compare(string name1, string name2)
         {
@@ -61,7 +61,7 @@ class GivenNamesComparer : IComparer<string>
     }
 
 
-    class NameSorter : INameSorter
+    public class NameSorter : INameSorter
     {
         /// <summary>
         /// Sorts the provided list of names based on last name and given names.

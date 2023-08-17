@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\83870\\Desktop\\NameSortApp\\namesorterapp.tests\\NameSorterApp.Tests.csproj": {}
+    "C:\\Users\\83870\\Desktop\\NameSortApp\\NameSorterApp.Tests\\NameSorterApp.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\83870\\Desktop\\NameSortApp\\namesorterapp.tests\\NameSorterApp.Tests.csproj": {
+    "C:\\Users\\83870\\Desktop\\NameSortApp\\NameSorterApp.Tests\\NameSorterApp.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\83870\\Desktop\\NameSortApp\\namesorterapp.tests\\NameSorterApp.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\83870\\Desktop\\NameSortApp\\NameSorterApp.Tests\\NameSorterApp.Tests.csproj",
         "projectName": "NameSorterApp.Tests",
-        "projectPath": "C:\\Users\\83870\\Desktop\\NameSortApp\\namesorterapp.tests\\NameSorterApp.Tests.csproj",
+        "projectPath": "C:\\Users\\83870\\Desktop\\NameSortApp\\NameSorterApp.Tests\\NameSorterApp.Tests.csproj",
         "packagesPath": "C:\\Users\\83870\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\83870\\Desktop\\NameSortApp\\namesorterapp.tests\\obj\\",
+        "outputPath": "C:\\Users\\83870\\Desktop\\NameSortApp\\NameSorterApp.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\83870\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -43,6 +43,16 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
