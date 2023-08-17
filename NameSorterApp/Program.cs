@@ -33,6 +33,8 @@ namespace NameSorterApp
         }
     }
 
+
+//test build action
 class GivenNamesComparer : IComparer<string>
     {
         public int Compare(string name1, string name2)
