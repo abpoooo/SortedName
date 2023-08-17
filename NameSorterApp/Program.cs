@@ -15,10 +15,15 @@ namespace NameSorterApp
     public interface INameSorter
     {
         // the interface name of SortNames
+        // it provides the contract for sorting names
+        // follow the Interface Segregation Principle (ISP) 
         List<string> SortNames(List<string> names);
     }
 
-//the SortName with two main functions of LastName Comparator and GivenName Comparator with IComparer which is similar to Coparator in Java
+//the SortName with two main functions of LastName Comparator 
+//and GivenName Comparator with IComparer which is similar to Coparator in Java
+
+// Single Responsibility Priciple(SRP)
     public class LastNameComparer : IComparer<string>
     {
         public int Compare(string name1, string name2)
@@ -62,6 +67,7 @@ public class GivenNamesComparer : IComparer<string>
 
 
     public class NameSorter : INameSorter
+    //Open-Closed Priciple (OCP) extension and no modification
     {
         /// <summary>
         /// Sorts the provided list of names based on last name and given names.
