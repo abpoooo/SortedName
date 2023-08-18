@@ -61,7 +61,7 @@ public class GivenNamesComparer : IComparer<string>
         {
             // we may have up to 3 given names
             string[] parts = name.Split();
-            return parts.Length > 1 ? parts.Skip(1).Take(3).ToArray() : new string[0];
+            return parts.Length > 1 ? parts.Take(3).ToArray() : new string[0];
         }
     }
 
