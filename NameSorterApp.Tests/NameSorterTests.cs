@@ -13,7 +13,6 @@ namespace NameSorterApp.Tests
             INameSorter nameSorter = new NameSorter();
             List<string> unsortedNames = new List<string>
             {
-                // ... add unsorted names here ...
                 "Charlie Yang",
                 "Jane Doe",
                 "Alice Yang",
@@ -21,7 +20,6 @@ namespace NameSorterApp.Tests
 
             List<string> expectedSortedNames = new List<string>
             {
-                // ... add expected sorted names here ...
                 "Jane Doe",
                 "Alice Yang",
                 "Charlie Yang",
@@ -34,6 +32,6 @@ namespace NameSorterApp.Tests
             CollectionAssert.AreEqual(expectedSortedNames, sortedNames);
         }
 
-        // Add more test methods for edge cases or specific scenarios
+        
     }
 }
