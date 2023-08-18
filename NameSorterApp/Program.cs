@@ -66,7 +66,7 @@ public class GivenNamesComparer : IComparer<string>
     }
 
 
-     class NameSorter : INameSorter
+    public class NameSorter : INameSorter
     //Open-Closed Priciple (OCP) extension and no modification
     {
         /// <summary>
