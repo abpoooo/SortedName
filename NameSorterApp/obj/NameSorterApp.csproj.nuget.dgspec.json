@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\83870\\Desktop\\NameSortApp\\NameSorterApp\\NameSorterApp.csproj": {}
+    "c:\\Users\\83870\\Desktop\\NameSortApp\\NameSorterApp\\NameSorterApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\83870\\Desktop\\NameSortApp\\NameSorterApp\\NameSorterApp.csproj": {
+    "c:\\Users\\83870\\Desktop\\NameSortApp\\NameSorterApp\\NameSorterApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\83870\\Desktop\\NameSortApp\\NameSorterApp\\NameSorterApp.csproj",
+        "projectUniqueName": "c:\\Users\\83870\\Desktop\\NameSortApp\\NameSorterApp\\NameSorterApp.csproj",
         "projectName": "NameSorterApp",
-        "projectPath": "C:\\Users\\83870\\Desktop\\NameSortApp\\NameSorterApp\\NameSorterApp.csproj",
+        "projectPath": "c:\\Users\\83870\\Desktop\\NameSortApp\\NameSorterApp\\NameSorterApp.csproj",
         "packagesPath": "C:\\Users\\83870\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\83870\\Desktop\\NameSortApp\\NameSorterApp\\obj\\",
+        "outputPath": "c:\\Users\\83870\\Desktop\\NameSortApp\\NameSorterApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\83870\\AppData\\Roaming\\NuGet\\NuGet.Config",

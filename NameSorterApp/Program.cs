@@ -26,8 +26,10 @@ namespace NameSorterApp
 // Single Responsibility Priciple(SRP)
     public class LastNameComparer : IComparer<string>
     {
-        public int Compare(string name1, string name2)
+        public int Compare(string? name1, string? name2)
         {
+            if(name1 == null) throw new ArgumentNullException("the name1 is null");
+            if(name2 == null) throw new ArgumentNullException("the name2 is null");
             return GetLastName(name1).CompareTo(GetLastName(name2));
         }
 
@@ -42,8 +44,10 @@ namespace NameSorterApp
 //test build action
 public class GivenNamesComparer : IComparer<string>
     {
-        public int Compare(string name1, string name2)
+        public int Compare(string? name1, string? name2)
         {
+            if(name1 == null) throw new ArgumentNullException("the name1 is null");
+            if(name2 == null) throw new ArgumentNullException("the name2 is null");
             var givenNames1 = GetGivenNames(name1);
             var givenNames2 = GetGivenNames(name2);
 

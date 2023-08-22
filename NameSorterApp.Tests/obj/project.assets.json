@@ -279,11 +279,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\83870\\Desktop\\NameSortApp\\NameSorterApp.Tests\\NameSorterApp.Tests.csproj",
+      "projectUniqueName": "c:\\Users\\83870\\Desktop\\NameSortApp\\NameSorterApp.Tests\\NameSorterApp.Tests.csproj",
       "projectName": "NameSorterApp.Tests",
-      "projectPath": "C:\\Users\\83870\\Desktop\\NameSortApp\\NameSorterApp.Tests\\NameSorterApp.Tests.csproj",
+      "projectPath": "c:\\Users\\83870\\Desktop\\NameSortApp\\NameSorterApp.Tests\\NameSorterApp.Tests.csproj",
       "packagesPath": "C:\\Users\\83870\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\83870\\Desktop\\NameSortApp\\NameSorterApp.Tests\\obj\\",
+      "outputPath": "c:\\Users\\83870\\Desktop\\NameSortApp\\NameSorterApp.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\83870\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -300,8 +300,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\83870\\Desktop\\NameSortApp\\NameSorterApp\\NameSorterApp.csproj": {
-              "projectPath": "C:\\Users\\83870\\Desktop\\NameSortApp\\NameSorterApp\\NameSorterApp.csproj"
+            "c:\\Users\\83870\\Desktop\\NameSortApp\\NameSorterApp\\NameSorterApp.csproj": {
+              "projectPath": "c:\\Users\\83870\\Desktop\\NameSortApp\\NameSorterApp\\NameSorterApp.csproj"
             }
           }
         }

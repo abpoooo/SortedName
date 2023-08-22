@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9JikWIXIy1q6dcSkIevJ3iBoaYO6IMRXzVnxY8lVkVds/iI/WjhiocCQUvRbydNldwkVZx9zSXKOHFMoFnTSlg==",
+  "dgSpecHash": "Hyg/JYqEGAkiD7OhFywbBpUaVhJoJ7tA099bLeGWYwv3xhj0ZFc5OQviM3pvDjathVbDkwOKy1a7LHSulla5FA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\83870\\Desktop\\NameSortApp\\NameSorterApp.Tests\\NameSorterApp.Tests.csproj",
+  "projectFilePath": "c:\\Users\\83870\\Desktop\\NameSortApp\\NameSorterApp.Tests\\NameSorterApp.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\83870\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\83870\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
